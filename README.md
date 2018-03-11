@@ -21,3 +21,5 @@ python3 server.py
 ```sh
 python3 client.py [username]
 ```
+### How to run a Chat client
+Create multiple user from above command on different bash.
